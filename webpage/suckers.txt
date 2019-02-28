@@ -1,0 +1,2 @@
+Javlonbek;MH;2312344542342;Visa card
+Nodir;MA;12312312312;Master card
